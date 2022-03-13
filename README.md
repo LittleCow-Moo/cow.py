@@ -46,4 +46,50 @@ cow.exit
 [![牛牛](https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=512)](https://cow.c-moo.cf?test=true)
 > 牛牛： 哞! 好簡單!
 
+## CowDisguise.py
+CowDisuise 需要 Discord Webhook 才能運作。
+### 如何新增 Webhook 及如何使用
+1. 選擇頻道設定
+
+![頻道設定](https://cdn.discordapp.com/attachments/859642024071135282/952550377289560084/unknown.png)
+***
+
+2. 選擇整合
+
+![整合](https://cdn.discordapp.com/attachments/859642024071135282/952550593283641394/unknown.png)
+***
+
+3. 選擇 Webhook
+
+![Webhook](https://cdn.discordapp.com/attachments/859642024071135282/952552550966640690/unknown.png)
+***
+4. 按下**新Webhook**
+
+![新 Webhook 按鈕](https://cdn.discordapp.com/attachments/859642024071135282/952552697788256266/unknown.png)
+***
+5. 複製你的 Webhook 網址
+
+![複製網址](https://user-images.githubusercontent.com/90096971/158060711-51ef61d1-bfa3-4f51-b635-8318f3747ccb.png)
+)
+***
+6. 接著下載我們準備的檔案。
+> **下載檔案**</br>[原始 | CowDisguise.py](https://github.com/LittleCow-moo/cow.py/blob/main/disguise/disguise.py)</br>[範本 | Process.json](https://github.com/LittleCow-moo/cow.py/blob/main/disguise/process.json)
+
+然後，將 "process.json" 檔案的值，改成你想要的樣子。
+
+例如：
+```json
+{
+    "username": "牛牛",
+    "avatar_url": "https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=4096",
+    "content": "哞~ 這裡有草吃嗎?",
+    "url": "我的 Webhook 連結"
+}
+```
+然後執行 `disguise.py` 即可。
+
+**真的就這麼簡單!**
+
+
+***
 ![cowmain](https://user-images.githubusercontent.com/90096971/158060088-fec47b8a-74d9-4684-ad32-ef36a1c53868.gif)
