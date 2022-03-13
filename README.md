@@ -39,7 +39,7 @@ cow.exit
 > `!3` - 結束程式
 
 
-3. 最後，直接用 Python 執行 "LAUNCH.py" 即可。![@everyone](https://user-images.githubusercontent.com/90096971/158060114-8e8259b5-33a4-48b1-a305-cfa92b7991fb.png)
+3. 最後，直接用 Python 執行 "LAUNCH.py" 即可。
 
 ***
 
