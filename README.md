@@ -45,4 +45,5 @@ cow.exit
 
 [![牛牛](https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=512)](https://cow.c-moo.cf?test=true)
 > 牛牛： 哞! 好簡單!
-> ![cowmain](https://user-images.githubusercontent.com/90096971/158060088-fec47b8a-74d9-4684-ad32-ef36a1c53868.gif)
+
+![cowmain](https://user-images.githubusercontent.com/90096971/158060088-fec47b8a-74d9-4684-ad32-ef36a1c53868.gif)
