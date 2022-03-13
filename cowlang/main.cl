@@ -1,6 +1,6 @@
 # this is a comment
 // this is also a comment
-log oh look! it's cow lang!
+log oh look! this is cowlang!
 [import] cow
 cow.eat grass
 [import] process
