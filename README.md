@@ -47,7 +47,7 @@ cow.exit
 > 牛牛： 哞! 好簡單!
 
 ## CowDisguise.py
-CowDisuise 需要 Discord Webhook 才能運作。
+CowDisguise 需要 Discord Webhook 才能運作。
 ### 如何新增 Webhook 及如何使用
 1. 選擇頻道設定
 
