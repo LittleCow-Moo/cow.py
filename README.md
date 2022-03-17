@@ -1,11 +1,11 @@
 # cow.py
-![cow.py](https://img.shields.io/badge/cow.py-v0.5a-%23fce38a) [![Cow Website](https://img.shields.io/website?down_color=lightgrey&down_message=downtime&label=Website&up_color=%230995ec&up_message=uptime&url=https%3A%2F%2Fcow.c-moo.cf)](https://cow.c-moo.cf?test=true)</br>
+![cow.py](https://img.shields.io/badge/cow.py-v1.0a-%23ff00a7) [![Cow Website](https://img.shields.io/website?down_color=lightgrey&down_message=downtime&label=Website&up_color=%230995ec&up_message=uptime&url=https%3A%2F%2Fcow.c-moo.cf)](https://cow.c-moo.cf?test=true)</br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/LittleCow-moo/cow.py?label=Commits&style=for-the-badge) [![牛牛的草原](https://img.shields.io/discord/858984157929144321?color=%235865F2&label=Discord&logo=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F12%2FDiscord-Logo.png&style=for-the-badge)](https://discord.gg/bQJyuAD9hw)
 
 牛牛跑到 Python 去了！ 快帶牠回家！
 
 ## CowLang
-CowLang 是一個十分簡單的程式語言，目前版本為 **v.1.0a**。
+CowLang 是一個十分簡單的程式語言，目前版本為 **v1.0a**。
 
 > **系統需求： [`Python 3`](https://python.org/)**</br>
 **大小： `undefined`**
