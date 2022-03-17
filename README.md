@@ -70,7 +70,7 @@ CowDisguise 需要 Discord Webhook 才能運作。
 5. 複製你的 Webhook 網址
 
 ![複製網址](https://user-images.githubusercontent.com/90096971/158060711-51ef61d1-bfa3-4f51-b635-8318f3747ccb.png)
-)
+
 ***
 6. 接著下載我們準備的檔案。
 > **下載檔案**</br>[原始 | CowDisguise.py](https://github.com/LittleCow-moo/cow.py/blob/main/disguise/disguise.py)</br>[範本 | Process.json](https://github.com/LittleCow-moo/cow.py/blob/main/disguise/process.json)
