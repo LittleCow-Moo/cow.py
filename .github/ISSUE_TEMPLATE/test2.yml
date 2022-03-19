@@ -3,54 +3,54 @@ description: 回報或建議一些事項
 title: "[Bug]: "
 labels: ["bug"]
 assignees:
-  - aweirdscratcher
+  - ['aweirdscratcher', 'charlie-moomoo']
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+       感謝您撥空填寫此表單！
+       > 我們的 Discord: [在這裡](https://dsc.gg/cowgrassland)
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
+      label: Email 聯繫
+      description: 我們會通知您最新的消息
       placeholder: ex. email@example.com
     validations:
       required: false
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: 回報或建議
+      description: 或是告訴我們，您希望我們提供什麼服務？
+      placeholder: 我認為…
     validations:
       required: true
   - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: 版本
+      description: 發生錯誤的版本
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - 1.0 Pre-Release
     validations:
-      required: true
+      required: false
+
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: 您的系統
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - iOS
+        - Windows
+        - Linux
+        - 其他
+
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: 主控台
+      description: 請複製貼上程式在主控台顯示的資料 (LOG)
       render: shell
   - type: checkboxes
     id: terms
