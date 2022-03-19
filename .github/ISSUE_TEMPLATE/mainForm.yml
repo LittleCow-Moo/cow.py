@@ -1,4 +1,4 @@
-name: 回饋表單或BUG
+name: test
 description: 意見填寫單
 title: "[建議 / BUG]: "
 labels: ["suggestions", "bug"]
