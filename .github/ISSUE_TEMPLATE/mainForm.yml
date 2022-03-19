@@ -3,7 +3,6 @@ description: 意見填寫單
 title: "[建議 / BUG]: "
 labels: ["suggestions", "bug"]
 assignees:
-  - charliemoomoo
   - AWeirdScratcher
 body:
   - type: markdown
