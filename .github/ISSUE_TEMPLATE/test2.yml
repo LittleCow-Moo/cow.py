@@ -1,9 +1,9 @@
 name: 錯誤回報或建議
-description: File a bug report
+description: 回報或建議一些事項
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["bug"]
 assignees:
-  - octocat
+  - aweirdscratcher
 body:
   - type: markdown
     attributes:
