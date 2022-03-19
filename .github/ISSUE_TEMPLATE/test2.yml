@@ -55,8 +55,10 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: 勾選部分
+      description: 請詳讀並勾選以下：
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: 從來沒有人回報過此錯誤
+          required: true
+        - label: 牛牛很可愛
           required: true
